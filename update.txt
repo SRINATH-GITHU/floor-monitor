@@ -1,0 +1,13 @@
+Project Update: CCTV Object Detection for Small-Scale Items
+
+Currently working on building an object detection pipeline designed for CCTV footage (1920x1080 resolution).
+
+Progress & Achievements:
+
+Analyzed frame quality and initial annotation pixel distributions across key classes (phone, bottle, book, bag).
+
+Identified that target objects like phones (~18–44px) and bottles (~26px) present significant small-object detection challenges.
+
+Established a data-driven strategy to test high-resolution training, custom feature head architectures (P2), and SAHI (Slicing Aided Hyper Inference) against a 640x640 baseline.
+
+Next Step: Expanding the diagnostic dataset with targeted high-priority samples (phones and pens) before establishing baseline model evaluations!
