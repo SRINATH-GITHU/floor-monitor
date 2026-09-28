@@ -1,0 +1,35 @@
+
+pen (class 0) — 0 objects
+  width px:  count=0
+  height px: count=0
+  area px²:  count=0
+  area / 1920x1080 frame: count=0
+  width ranges: <10 px=0, 10–20 px=0, 20–40 px=0, 40–80 px=0, 80–160 px=0, >160 px=0
+
+bag (class 1) — 19 objects
+  width px:  count=19, min=64.00, max=127.00, mean=96.00, median=96.00, p10=71.20, p25=77.50, p75=112.50, p90=120.40
+  height px: count=19, min=45.00, max=108.00, mean=79.42, median=85.00, p10=59.40, p25=66.50, p75=89.00, p90=98.20
+  area px²:  count=19, min=3060.00, max=13716.00, mean=7849.95, median=7920.00, p10=3960.80, p25=5736.50, p75=10086.00, p90=10881.60
+  area / 1920x1080 frame: count=19, min=0.00, max=0.01, mean=0.00, median=0.00, p10=0.00, p25=0.00, p75=0.00, p90=0.01
+  width ranges: <10 px=0, 10–20 px=0, 20–40 px=0, 40–80 px=5, 80–160 px=14, >160 px=0
+
+book (class 2) — 13 objects
+  width px:  count=13, min=34.00, max=72.00, mean=52.00, median=54.00, p10=42.60, p25=50.00, p75=55.00, p90=56.80
+  height px: count=13, min=34.00, max=54.00, mean=45.31, median=47.00, p10=38.20, p25=45.00, p75=48.00, p90=48.80
+  area px²:  count=13, min=1156.00, max=2916.00, mean=2357.85, median=2450.00, p10=1982.60, p25=2223.00, p75=2592.00, p90=2726.40
+  area / 1920x1080 frame: count=13, min=0.00, max=0.00, mean=0.00, median=0.00, p10=0.00, p25=0.00, p75=0.00, p90=0.00
+  width ranges: <10 px=0, 10–20 px=0, 20–40 px=1, 40–80 px=12, 80–160 px=0, >160 px=0
+
+phone (class 3) — 30 objects
+  width px:  count=30, min=12.00, max=57.00, mean=38.57, median=44.00, p10=18.00, p25=25.25, p75=48.75, p90=54.20
+  height px: count=30, min=12.00, max=54.00, mean=28.77, median=27.00, p10=17.00, p25=24.00, p75=33.00, p90=38.10
+  area px²:  count=30, min=144.00, max=2736.00, mean=1170.87, median=1282.50, p10=372.60, p25=672.00, p75=1580.00, p90=1759.80
+  area / 1920x1080 frame: count=30, min=0.00, max=0.00, mean=0.00, median=0.00, p10=0.00, p25=0.00, p75=0.00, p90=0.00
+  width ranges: <10 px=0, 10–20 px=4, 20–40 px=8, 40–80 px=18, 80–160 px=0, >160 px=0
+
+bottle (class 4) — 32 objects
+  width px:  count=32, min=16.00, max=62.00, mean=26.94, median=26.00, p10=18.00, p25=22.00, p75=29.25, p90=34.90
+  height px: count=32, min=24.00, max=106.00, mean=50.25, median=49.00, p10=34.20, p25=42.00, p75=53.50, p90=59.80
+  area px²:  count=32, min=612.00, max=4960.00, mean=1423.88, median=1262.00, p10=726.30, p25=972.00, p75=1393.50, p90=1934.40
+  area / 1920x1080 frame: count=32, min=0.00, max=0.00, mean=0.00, median=0.00, p10=0.00, p25=0.00, p75=0.00, p90=0.00
+  width ranges: <10 px=0, 10–20 px=5, 20–40 px=26, 40–80 px=1, 80–160 px=0, >160 px=0
